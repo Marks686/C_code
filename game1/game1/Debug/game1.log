@@ -1,0 +1,3 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 _InitBoard，函数 _game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _DispalyBoard，函数 _game 中引用了该符号
+D:\代码仓库\c106\game1\Debug\game1.exe : fatal error LNK1120: 2 个无法解析的外部命令
