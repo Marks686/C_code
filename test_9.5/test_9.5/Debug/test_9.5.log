@@ -1,0 +1,5 @@
+﻿  test.c
+D:\代码\c_code\C\test_9.5\test_9.5\test.c(105,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\代码\c_code\C\test_9.5\test_9.5\test.c(110,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\代码\c_code\C\test_9.5\test_9.5\test.c(206,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test_9.5.vcxproj -> D:\代码\c_code\C\test_9.5\Debug\test_9.5.exe
