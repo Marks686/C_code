@@ -29,7 +29,7 @@ int my_strcmp(const char* str1, const char* str2)
 }
 int main()
 {
-	char arr1[] = "abcq";
+	char arr1[] = "abca";
 	char arr2[] = "abcq";
 	int ret = my_strcmp(arr1, arr2);
 	if (ret < 0)
