@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\c_code\C\test_9.9\test_9.9\test.c(32,12): warning C4101: “s2”: 未引用的局部变量
+D:\代码\c_code\C\test_9.9\test_9.9\test.c(31,12): warning C4101: “s1”: 未引用的局部变量
+  test_9.9.vcxproj -> D:\代码\c_code\C\test_9.9\Debug\test_9.9.exe
