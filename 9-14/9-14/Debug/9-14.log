@@ -1,0 +1,12 @@
+﻿生成启动时间为 2022/9/14 11:09:27。
+     1>项目“D:\代码\CPP_code\CPP_code\9-14\9-14\9-14.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Test.c
+         Test.c
+     1>d:\代码\cpp_code\cpp_code\9-14\9-14\test.c(108): error C2011: “Un”:“union”类型重定义
+                 d:\代码\cpp_code\cpp_code\9-14\9-14\test.c(38) : 参见“Un”的声明
+     1>已完成生成项目“D:\代码\CPP_code\CPP_code\9-14\9-14\9-14.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.08
