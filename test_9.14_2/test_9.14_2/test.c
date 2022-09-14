@@ -1,8 +1,10 @@
-#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-int main1()
+int main()
 {
-	int a = 10;//4个字节
-	int arr[10];//40个字节
+	int a;//4个字节
+	//int arr[10];//40个字节
+	scanf("%d", &a);
+	printf("%d", a);
 	return 0;
 }
