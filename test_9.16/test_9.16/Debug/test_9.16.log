@@ -1,0 +1,3 @@
+﻿  test.c
+D:\代码\c_code\C\test_9.16\test_9.16\test.c(86): warning C4716: “main3”: 必须返回一个值
+  test_9.16.vcxproj -> D:\代码\c_code\C\test_9.16\Debug\test_9.16.exe
